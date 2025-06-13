@@ -11,7 +11,7 @@
 <h2>✒️ Recent Posts</h2>
 <ul>
 <li><a target="_blank" href=""></a></li>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Justic&show_icons=true&locale=en" alt="Justic" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Justic&" alt="Justic" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Justic&show_icons=true&locale=en&layout=compact" alt="Justic" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Justic" alt="Justic" /></a></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=JIAXInT&show_icons=true&locale=en" alt="JIAXInT" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JIAXInT&" alt="JIAXInT" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=JIAXInT&show_icons=true&locale=en&layout=compact" alt="JIAXInT" /></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JIAXInT" alt="JIAXInT" /></a></p>
